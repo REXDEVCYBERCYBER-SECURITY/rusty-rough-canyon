@@ -1,0 +1,4 @@
+ขดhttps://docs-demo.quiknode.pro/ \
+  -X โพสต์\
+  -H "ประเภทเนื้อหา: application/json" \ 
+  --data '{"method":eth_accounts","id":1,"jsonrpc":2.0"}'
